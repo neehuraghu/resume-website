@@ -1,0 +1,18 @@
+var educationSection = document.querySelector('#education');
+  var experienceSection = document.querySelector('#experience');
+educationSection.style.display = 'none';
+  experienceSection.style.display = 'none';
+document.querySelector('#toggle-education').addEventListener('click', function() {
+    if (educationSection.style.display === 'none') {
+      educationSection.style.display = 'block';
+    } else {
+      educationSection.style.display = 'none';
+    }
+  });
+document.querySelector('#toggle-experience').addEventListener('click', function() {
+    if (experienceSection.style.display === 'none') {
+      experienceSection.style.display = 'block';
+    } else {
+      experienceSection.style.display = 'none';
+    }
+  });
