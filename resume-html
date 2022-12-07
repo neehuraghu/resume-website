@@ -1,0 +1,38 @@
+<!DOCTYPE htmlhtml>
+<html>
+<head>
+  <title>My Resume</title>
+</head>
+<body>
+  <h1>My Resume</h1>
+
+  <h2>Personal Information</h2>
+  <ul>
+    <li>Name: Neeharika Raghunath</li>
+    <li>Email: neeharika.raghunath@gmail.com</li>
+    <li>Phone: xxxx-xxxx</li>
+  </ul>
+
+  <h2>Education</h2>
+  <h3>Diploma in Banking and Finance</h3>
+  <p>Nanyang Polytechnic, Singapore</p>
+  <p>Graduated: February 2024</p>
+
+  <h2>Experience</h2>
+  <h3>xxx</h3>
+  <p>XYZ Corporation | Month [timeline]</p>
+  <ul>
+    <li>xxxxxxxxxxxxxxxx</li>
+    <li>xxxxxxxxxxxxxxxx</li>
+    <li>xxxxxxxxxxxxxxxx</li>
+  </ul>
+
+  <h3>Intern, xxxxxxxxxx</h3>
+  <p>ABC Corporation | Month [timeline]</p>
+  <ul>
+    <li>xxxxxxxxx</li>
+    <li>xxxxxxxxx</li>
+  </ul>
+
+</body>
+</html>
